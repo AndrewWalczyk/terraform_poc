@@ -15,8 +15,8 @@ module "vcn" {
   tenancy_id = var.tenancy_id
   compartment_id = var.compartment_id
   label_prefix   = var.label_prefix
-  freeform_tags  = var.freeform_tags
-  defined_tags   = var.defined_tags
+  #freeform_tags  = var.freeform_tags
+  #defined_tags   = var.defined_tags
 
 
 
