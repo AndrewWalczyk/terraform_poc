@@ -7,7 +7,7 @@ api_fingerprint = "eb:eb:70:a7:de:23:cb:4e:d5:8e:78:71:48:0b:47:62"
 
 api_private_key_path = "~/.oci/ociprivate.pem"
 
-region = "us-phoenix-1"
+region = "us-ashburn-1"
 
 tenancy_id = "ocid1.tenancy.oc1..aaaaaaaackopa27emaz4uteg4sseutmk3qq73iyoymttpyjdu34bilvxo3da"
 
