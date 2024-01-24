@@ -12,10 +12,13 @@ module "vcn" {
   # version = "specify_version_number"
 
   # general oci parameters
+  tenancy_id = var.tenancy_id
   compartment_id = var.compartment_id
   label_prefix   = var.label_prefix
   freeform_tags  = var.freeform_tags
   defined_tags   = var.defined_tags
+
+
 
   # vcn parameters
   create_internet_gateway  = var.create_internet_gateway  # boolean: true or false
