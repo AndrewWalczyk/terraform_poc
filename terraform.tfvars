@@ -15,7 +15,7 @@ user_id = "ocid1.user.oc1..aaaaaaaavi7bwrxnmc3fcamwhjkzjyxaoyx77v7qzgekm5z4yn7fl
 
 # general oci parameters
 
-compartment_id = "ocid1.compartment.oc1..aaaaaaaa37piw6jcamk5eiu4fmctglfsahgnkz5dudry5funbbyuqyxmzhoa"
+compartment_id = "ocid1.compartment.oc1..aaaaaaaaoowhqmfgoojwprweuzgyaw4zy3kxixaykfbohovby6hkimodja7a"
 
 label_prefix = "dev"
 
